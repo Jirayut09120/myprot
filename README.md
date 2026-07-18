@@ -7,6 +7,7 @@
 
 | หน้าอื่นๆ |
 |------|
+[my program](myprogram04.py)
 | [ประวัติส่วนตัว](Tomee.md) |
 | [ระดับการศึกษา](mygrade.md) |
 | [เหตุผล](myuni.md) |
